@@ -1,7 +1,6 @@
-# Template for policies for use in Compliance Framework plugins
+# Plugin kubernetes pod policies
 
 ## Testing
-
 
 ```shell
 opa test policies
